@@ -38,7 +38,7 @@ look at the documentation included in the package.
 Group: Development/C++
 Summary: Real-time Transport Protocol library
 Requires: %libname = %version
-Provides: lib%name-devel = %version-%release
+Provides: libjrtp-devel = %version-%release
 
 %description -n %develname
 The library offers support for the Real-time Transport Protocol (RTP),
