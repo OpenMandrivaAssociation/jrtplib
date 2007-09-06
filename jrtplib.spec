@@ -9,7 +9,7 @@ Summary: Real-time Transport Protocol library
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Source0: %{name}-%{version}.tar.bz2
+Source0: http://research.edm.uhasselt.be/jori/jrtplib/%{name}-%{version}.tar.bz2
 License: MIT
 Group: System/Libraries
 Url: http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib
