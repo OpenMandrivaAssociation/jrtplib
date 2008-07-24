@@ -1,6 +1,6 @@
 %define name jrtplib
 %define version 3.7.1
-%define release %mkrel 1
+%define release %mkrel 3
 %define api %version
 %define libname %mklibname jrtp %api
 %define develname %mklibname -d jrtp
